@@ -1,0 +1,76 @@
+:root {
+--White: hsl(0, 0%, 100%);
+--Light-gray: hsl(212, 45%, 89%);
+--Grayish-blue: hsl(220, 15%, 55%);
+--Grayish-blue-alpha: hsl(220, 15%, 55%, .32);
+--Dark-blue: hsl(218, 44%, 22%);
+}
+
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   height: 100vh;
+   background-color: var(--Light-gray);
+   font-family: 'Outfit', sans-serif;
+}
+
+p {
+   font-size: 15px;
+}
+
+.attribution {
+   font-size: 16px;
+   text-align: center;
+}
+
+.attribution a {
+   color: hsl(228, 45%, 44%);
+}
+
+.container {
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.qr-component {
+   height: 25.2rem;
+   width: 16.3rem;
+   background-color: var(--White);
+   border-radius: 1rem;
+   box-shadow: 1px 1px 3rem .3rem var(--Grayish-blue-alpha);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.qr {
+   padding: .82rem;
+}
+
+.qr-code {
+   width: 100%;
+   border-radius: .5rem;
+}
+
+.component {
+   padding: 0 1.4rem;
+   display: flex;
+   flex-direction: column;
+   gap: .9rem;
+}
+
+.component-title {
+   text-align: center;
+   color: var(--Dark-blue);
+}
+
+.component-instruction {
+   text-align: center;
+   color: var(--Grayish-blue);
+   padding-bottom: 1.2rem;
+}
