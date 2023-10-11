@@ -31,8 +31,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+- Live Site URL: [Add live site URL here](https://qr-code-component-main-chi-gules.vercel.app/)
 
 ## My process
 
