@@ -45,6 +45,4 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Mobile-first workflow
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@GeovannyTA](https://www.frontendmentor.io/profile/GeovannyTA)
